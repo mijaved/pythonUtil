@@ -1,0 +1,41 @@
+[{
+    "Name": "Barisal",
+    "Code": "1",
+    "GPSLatitude": 22.701944440000,
+    "GPSLongitude": 90.371111110000
+}, {
+    "Name": "Chittagong",
+    "Code": "2",
+    "GPSLatitude": 22.333055560000,
+    "GPSLongitude": 91.836388890000
+}, {
+    "Name": "Dhaka",
+    "Code": "3",
+    "GPSLatitude": 23.710277780000,
+    "GPSLongitude": 90.407222220000
+}, {
+    "Name": "Khulna",
+    "Code": "4",
+    "GPSLatitude": 22.813333330000,
+    "GPSLongitude": 89.567222220000
+}, {
+    "Name": "Mymensingh",
+    "Code": "8",
+    "GPSLatitude": 24.743448000000,
+    "GPSLongitude": 90.398384000000
+}, {
+    "Name": "Rajshahi",
+    "Code": "5",
+    "GPSLatitude": 24.366666670000,
+    "GPSLongitude": 88.600000000000
+}, {
+    "Name": "Rangpur",
+    "Code": "7",
+    "GPSLatitude": 25.750000000000,
+    "GPSLongitude": 89.250000000000
+}, {
+    "Name": "Sylhet",
+    "Code": "6",
+    "GPSLatitude": 24.896666670000,
+    "GPSLongitude": 91.871666670000
+}]
